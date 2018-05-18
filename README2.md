@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pythOnBoarding Bot
 ## Building a simple bot using [Slack's Events API](https://api.slack.com/events-api) in Python
 This bot is an example implementation of building a Slack App with Slack's Python SDK, [python-slackclient](http://python-slackclient.readthedocs.io/en/latest/). We'll cover all the basic steps you'll need to create and configure your first Slack App in python.
@@ -98,3 +99,6 @@ I'd love to improve this project, so if you've got some ideas :bulb:, feedback
 :raising_hand: or praise :love_letter: please file an issue, submit a PR or
 reach out to me through [Github](https://github.com/karishay) or on
 [Twitter](https://twitter.com/karishannon)!
+=======
+# OnboardingBot
+>>>>>>> 29a45e9492b31b111c07d3777618fade99f80388
